@@ -1,0 +1,20 @@
+canonical_identifier: bkk:krp/KR4d0083/SBCK/v1/juan/0
+seq: 0
+front:
+  text: 欒城應詔集目錄
+  hash: sha256:9e63f0b0f99d881dcff09875a287835c985e3288cf7a504d4cee1f56c38c7c90
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4d0083_SBCK_000-1a}
+body:
+  text: 第一卷進論五首夏商周六􅀦秦第二卷進論五首漢三國晉七代隋第三卷進論五首唐五代周公老聃上老聃下第四卷進論五首禮易書詩春秋第五卷進論五首燕趙蜀北狄西戎西南夷第六卷進策君術五道第七卷進策臣事五道上第八卷進策臣事五道下第九卷進策民政五道上第十卷進策民政五道下第十一卷秘閣試論六首王者不治夷狄劉愷丁鴻孰賢禮義信足以成德􅄱勢不如德禮以養人爲本旣醉備五福秋試論一首史官助賞罰省試論一首􅆿賞忠厚之至第十二卷御試制科策一道欒城應詔集目錄終
+  hash: sha256:b17509d5faa25184402da19e8c0dcbce1fce7171c22212cbd3644fed02d0a691
+metadata:
+  title: 欒城應詔集
+  edition:
+    short: SBCK
+    label: 【四部叢刊】
+  date: '2015-09-11 09:56:31.450107'
+  source:
+    repository: kanripo
+    path: KR4d0083/KR4d0083_000.txt
+hash: sha256:a1a877828ce20afc16e1da0bf008d44865dba211f80b1adfcc105d01983e4f28
