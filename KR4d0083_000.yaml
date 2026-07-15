@@ -1,13 +1,13 @@
 canonical_identifier: bkk:krp/KR4d0083/krp/v1/juan/0
 seq: 0
 front:
-  text: 欒城應詔集目錄
-  hash: sha256:9e63f0b0f99d881dcff09875a287835c985e3288cf7a504d4cee1f56c38c7c90
+  text: 欒城應詔集目録
+  hash: sha256:0264ce4f4711f06159c07b86f67f8f02c758eefb5cbe3c599f1963b3dfc77328
   markers:
   - {type: page-break, offset: 0, content: '', id: KR4d0083_SBCK_000-1a}
 body:
-  text: 第一卷進論五首夏商周六國秦第二卷進論五首漢三國晉七代隋第三卷進論五首唐五代周公老聃上老聃下第四卷進論五首禮易書詩春秋第五卷進論五首燕趙蜀北狄西戎西南夷第六卷進策君術五道第七卷進策臣事五道上第八卷進策臣事五道下第九卷進策民政五道上第十卷進策民政五道下第十一卷秘閣試論六首王者不治夷狄劉愷丁鴻孰賢禮義信足以成德形勢不如德禮以養人爲本旣醉備五福秋試論一首史官助賞罰省試論一首刑賞忠厚之至第十二卷御試制科策一道欒城應詔集目錄終
-  hash: sha256:fd557f5ecadb92e99190ec1bae911c4adb004b9433cd319c9a3009aa7e58de12
+  text: 第一卷進論五首夏商周六國秦第二卷進論五首漢三國晉七代隋第三卷進論五首唐五代周公老聃上老聃下第四卷進論五首禮易書詩春秋第五卷進論五首燕趙蜀北狄西戎西南夷第六卷進策君術五道第七卷進策臣事五道上第八卷進策臣事五道下第九卷進策民政五道上第十卷進策民政五道下第十一卷祕閣試論六首王者不治夷狄劉愷丁鴻孰賢禮義信足以成德形勢不如德禮以養人為本既醉備五福秋試論一首史官助賞罰省試論一首刑賞忠厚之至第十二卷御試制科策一道欒城應詔集目録終
+  hash: sha256:065e6c16e34f52065ab4b029f9b9ec15ed2337c88494ec2297740cf8cb59939d
 metadata:
   title: 欒城應詔集
   edition:
@@ -17,4 +17,4 @@ metadata:
   source:
     repository: kanripo
     path: KR4d0083/KR4d0083_000.txt
-hash: sha256:ab402d70ef5a7527b4eb52f9d8cd46af9c4469181f64ac82f9ec38b4904e0915
+hash: sha256:891cef218e4cd8d519443bb18209dee4ed3ee1568bd27e197c0c9b941a09b78f
